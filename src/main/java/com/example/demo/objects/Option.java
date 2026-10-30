@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.objects;
 
 public class Option <T> {
     private  final String text;
